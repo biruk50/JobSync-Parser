@@ -178,5 +178,5 @@ string processDate(const string& input) {
     return processed;
 }
 
-// g++ "program name" .\src\sqlite3.o -IC:\sqlite3
+// g++ your ->"program name" .\src\sqlite3.o -IC:\sqlite3
 //& .\"a.exe"
